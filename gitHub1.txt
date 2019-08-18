@@ -1,1 +1,2 @@
 This is my first file for GitHub upload
+This is an edited one with addition of line 2
